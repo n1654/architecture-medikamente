@@ -738,7 +738,7 @@
           <mxGeometry x="3781" y="-12" width="537" height="209" as="geometry" />
         </mxCell>
         <mxCell id="X4ABqJRsi3rs6PDdl4bj-1" value="&lt;div&gt;Время хранения 1 год&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;fontSize=16;" vertex="1" parent="3pSStWOA0dj4AUJ1qt_l-1">
-          <mxGeometry x="1845" y="1056" width="192" height="53" as="geometry" />
+          <mxGeometry x="1855" y="1053.5" width="192" height="53" as="geometry" />
         </mxCell>
         <mxCell id="X4ABqJRsi3rs6PDdl4bj-3" value="&lt;div&gt;Время хранения 5 лет&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;fontSize=16;" vertex="1" parent="3pSStWOA0dj4AUJ1qt_l-1">
           <mxGeometry x="2134" y="1059" width="192" height="53" as="geometry" />
@@ -802,6 +802,18 @@
         </mxCell>
         <mxCell id="X4ABqJRsi3rs6PDdl4bj-18" value="label: Medical, Other" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;fontSize=16;" vertex="1" parent="3pSStWOA0dj4AUJ1qt_l-1">
           <mxGeometry x="2409" y="837" width="192" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="X4ABqJRsi3rs6PDdl4bj-19" value="&lt;div&gt;Маскирование, шифрование&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;fontSize=16;" vertex="1" parent="3pSStWOA0dj4AUJ1qt_l-1">
+          <mxGeometry x="1900" y="1100" width="192" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="X4ABqJRsi3rs6PDdl4bj-21" value="&lt;div&gt;Шифрование&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;fontSize=16;" vertex="1" parent="3pSStWOA0dj4AUJ1qt_l-1">
+          <mxGeometry x="2443" y="1100" width="192" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="X4ABqJRsi3rs6PDdl4bj-22" value="&lt;div&gt;Маскирование, шифрование&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;fontSize=16;" vertex="1" parent="3pSStWOA0dj4AUJ1qt_l-1">
+          <mxGeometry x="2163" y="1100" width="192" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="X4ABqJRsi3rs6PDdl4bj-23" value="&lt;div&gt;Токенизация, шифрование&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;fontSize=16;" vertex="1" parent="3pSStWOA0dj4AUJ1qt_l-1">
+          <mxGeometry x="1746" y="1800" width="192" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
